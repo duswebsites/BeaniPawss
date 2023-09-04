@@ -1,2 +1,0 @@
-# BeaniPawss
-website for BeaniPawss
